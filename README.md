@@ -1,24 +1,12 @@
-# vue-client-form
+# Форма создания клиента
 
-## Project setup
-```
-npm install
-```
+## Описание работы 
+Работа представляет собой форму создания клиента. 
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Используемые технологии
++ Vue.js
++ Vuelidate
++ Bootstrap
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Ссылка на проект
+[Проект находится здесь](https://vue-client-form.vercel.app/)
